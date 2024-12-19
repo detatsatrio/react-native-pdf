@@ -1,6 +1,6 @@
 {
-    "name": "@detatsatrio/react-native-pdf",
-    "version": "6.7.7",
+    "name": "react-native-pdf-heap",
+    "version": "0.0.2",
     "summary": "A react native PDF view component",
     "description": "A react native PDF view component, support ios and android platform",
     "main": "index.js",
