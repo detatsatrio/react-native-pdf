@@ -5,7 +5,7 @@ package = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 fabric_enabled = ENV['RCT_NEW_ARCH_ENABLED'] == '1'
 
 Pod::Spec.new do |s|
-  s.name           = package['name']
+  s.name           = 'react-native-pdf'
   s.version        = package['version']
   s.summary        = package['summary']
   s.description    = package['description']
